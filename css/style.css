@@ -1,0 +1,130 @@
+#header{
+	background: url(../img/1.jpg) center no-repeat;
+	background-size: cover;
+	/*height: 100vh;*/
+	height: 100%;
+    min-height: 500px;
+    color: wheat;
+}
+
+#intro .container {
+    margin-top: 15px;
+}
+
+.name {
+    font-size: 30px;
+}
+
+.section {
+    margin: 15px;
+    margin-left: 30px;
+    position: absolute;
+}
+
+#graph {
+    margin-top: 15px;
+}
+
+li {
+    list-style-type: none;
+   }
+
+li:first-child:before {
+    content: "\2B24";   
+    color: red;  
+    display: inline-block;  
+    width: 1.5em; 
+    margin-left: -0.9em; 
+    font-weight: bold; 
+    font-size:1.1rem; 
+    }
+
+li:nth-child(2):before {
+        content: "\2B24";   
+        color: blue;  
+        display: inline-block;  
+        width: 1.5em; 
+        margin-left: -0.9em; 
+        font-weight: bold; 
+        font-size:1.1rem; 
+        }
+li:nth-child(3):before {
+    content: "\2B24";   
+    color: green;  
+    display: inline-block;  
+    width: 1.5em; 
+    margin-left: -0.9em; 
+    font-weight: bold; 
+    font-size:1.1rem; 
+}
+
+li:nth-child(4):before {
+    content: "\2B24";   
+    color: cyan;  
+    display: inline-block;  
+    width: 1.5em; 
+    margin-left: -0.9em; 
+    font-weight: bold; 
+    font-size:1.1rem; 
+}
+
+li:nth-child(5):before {
+    content: "\2B24";   
+    color: gray;  
+    display: inline-block;  
+    width: 1.5em; 
+    margin-left: -0.9em; 
+    font-weight: bold; 
+    font-size:1.1rem; 
+}    
+
+li:nth-child(6):before {
+    content: "\2B24";   
+    color: success;  
+    display: inline-block;  
+    width: 1.5em; 
+    margin-left: -0.9em; 
+    font-weight: bold; 
+    font-size:1.1rem;
+}
+
+li:nth-child(7):before {
+    content: "\2B24";   
+    color: pink;  
+    display: inline-block;  
+    width: 1.5em; 
+    margin-left: -0.9em; 
+    font-weight: bold; 
+    font-size:1.1rem;
+}
+
+li:nth-child(8):before {
+    content: "\2B24";   
+    color: orange;  
+    display: inline-block;  
+    width: 1.5em; 
+    margin-left: -0.9em; 
+    font-weight: bold; 
+    font-size:1.1rem;
+}
+
+li:nth-child(9):before {
+    content: "\2B24";   
+    color: indigo;  
+    display: inline-block;  
+    width: 1.5em; 
+    margin-left: -0.9em; 
+    font-weight: bold; 
+    font-size:1.1rem;
+}
+
+li:nth-child(10):before {
+    content: "\2B24";   
+    color: yellow;  
+    display: inline-block;  
+    width: 1.5em; 
+    margin-left: -0.9em; 
+    font-weight: bold; 
+    font-size:1.1rem;
+}
+
